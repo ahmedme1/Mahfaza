@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "357296498790",
+    "project_id": "mahfaza-a6344",
+    "storage_bucket": "mahfaza-a6344.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357296498790:android:ac2dcfb9c66ac87cbb65a7",
+        "android_client_info": {
+          "package_name": "com.example.mahfaza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357296498790-0olbov4vcedln00qlm5ss1doqk9c7ssb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7sKQZC0QwDEgrFZHcBz1Vhg--7PEl8nk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357296498790-0olbov4vcedln00qlm5ss1doqk9c7ssb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
